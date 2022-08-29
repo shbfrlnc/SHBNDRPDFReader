@@ -12,4 +12,4 @@ Untuk memodifikasinya, Anda memerlukan Android Studio.
 
 ## Screenshot
 
-![ScreenShot](assets/ANDPDFRDR-Screenshot-Small.png?raw=true)
+![ScreenShot](assets/ANDPDFRDR-Screenshot_20220829_203556.png?raw=true)
