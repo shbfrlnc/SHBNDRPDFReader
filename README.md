@@ -1,14 +1,8 @@
-# ANDPDFRDR
+# ANDPDFRDR - Aplikasi Android untuk Menampilkan File PDF
 
-## Download
-
-Untuk mendownloadnya, kunjungi halaman Releases.
-
-## Intro
+## Software Apakah Ini?
 
 ANDPDFRDR adalah aplikasi Android untuk menampilkan file PDF.
-
-Untuk memodifikasinya, Anda memerlukan Android Studio.
 
 ## Screenshot
 
