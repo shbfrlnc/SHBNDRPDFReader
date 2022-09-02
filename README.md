@@ -79,9 +79,9 @@ File tersebut bernama AndroidManifest.xml.
 
 ## Penjelasan
 
-Penjelasan kode ini adalah melalui komentar.
+Sebagian penjelasan kode ini adalah melalui komentar.
 
-Di bawah ini saya tampilkan file-file yang tadi saya tulis dengan komentarnya.
+Di bawah ini saya tampilkan file-file yang tadi saya tulis dengan komentarnya, jika ada.
 
 ### File LicenseActivity.kt
 
@@ -454,4 +454,43 @@ dependencies {
     implementation "com.mikepenz:aboutlibraries:10.1.0"
     implementation "com.mikepenz:aboutlibraries-compose:10.1.0"
 }
+```
+
+### File AndroidManifest.xml
+
+```
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.andpdfrdr">
+
+	<!-- Minta izin READ_EXTERNAL_STORAGE -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ANDPDFRDR">
+        <activity
+            android:name=".ReaderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LicenseActivity"
+            android:exported="false"
+            android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
 ```
