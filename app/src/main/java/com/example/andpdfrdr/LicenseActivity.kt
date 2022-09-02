@@ -5,10 +5,10 @@ import android.os.Bundle
 import com.mikepenz.aboutlibraries.LibsBuilder
 import com.mikepenz.aboutlibraries.ui.LibsActivity
 
-// Class untuk keperluan legalitas.
+// Class untuk keperluan license.
 class LicenseActivity : LibsActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        // Berdasarkan dokumentasi, tapi beri judul.
+        // Caranya berdasarkan dokumentasi, tapi beri judul.
         intent = LibsBuilder()
             .withEdgeToEdge(true)
             .withSearchEnabled(true)
