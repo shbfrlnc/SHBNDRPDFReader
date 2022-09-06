@@ -18,7 +18,7 @@ Kemudian, build dan jalankan.
 
 ## Pendahuluan
 
-Kali ini, kita akan belajar membuat aplikasi Android yang dapat membuka dan menampilkan file PDF.
+Kali ini, saya akan memberikan contoh aplikasi Android yang dapat membuka dan menampilkan file PDF.
 
 File PDF nya bisa dibuka melalui sebuah activity yang menampilkan daftar file.
 
