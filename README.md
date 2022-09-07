@@ -6,7 +6,7 @@ ANDPDFRDR adalah aplikasi Android untuk menampilkan file PDF.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/ANDPDFRDR-Screenshot_20220829_203556.png?raw=true)
+![ScreenShot](.readme-assets/ANDPDFRDR-1.png?raw=true)
 
 ## Cara Mencoba Kode Ini
 
