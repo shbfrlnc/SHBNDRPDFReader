@@ -1,6 +1,5 @@
-package com.example.andpdfrdr
+package com.example.shbndrpdfreader
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.mikepenz.aboutlibraries.LibsBuilder
 import com.mikepenz.aboutlibraries.ui.LibsActivity

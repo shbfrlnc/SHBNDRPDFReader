@@ -1,11 +1,10 @@
-package com.example.andpdfrdr
+package com.example.shbndrpdfreader
 
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import com.github.barteksc.pdfviewer.PDFView
-import java.io.File
 
 // Class untuk menampilkan PDF.
 class ReaderActivity : AppCompatActivity() {

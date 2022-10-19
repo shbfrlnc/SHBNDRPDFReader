@@ -1,12 +1,12 @@
-# ANDPDFRDR - Aplikasi Android untuk Menampilkan File PDF
+# SHBNDRPDFReader - Aplikasi Android untuk Menampilkan File PDF
 
 ## Software Apakah Ini?
 
-ANDPDFRDR adalah aplikasi Android untuk menampilkan file PDF.
+SHBNDRPDFReader adalah aplikasi Android untuk menampilkan file PDF.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/ANDPDFRDR-1.png?raw=true)
+![ScreenShot](.readme-assets/SHBNDRPDFReader-1.png?raw=true)
 
 ## Cara Mencoba Kode Ini
 

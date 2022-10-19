@@ -1,4 +1,4 @@
-package com.example.andpdfrdr
+package com.example.shbndrpdfreader
 
 import android.Manifest
 import android.app.Activity

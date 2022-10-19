@@ -1,4 +1,4 @@
-package com.example.andpdfrdr
+package com.example.shbndrpdfreader
 
 import org.junit.Test
 

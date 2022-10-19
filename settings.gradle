@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         jcenter()
     }
 }
-rootProject.name = "ANDPDFRDR"
+rootProject.name = "SHBNDRPDFReader"
 include ':app'
