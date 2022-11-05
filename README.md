@@ -6,7 +6,9 @@ SHBNDRPDFReader adalah aplikasi Android untuk menampilkan file PDF.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/SHBNDRPDFReader-1.png?raw=true)
+<p align="center">
+  <img src=".readme-assets/SHBNDRPDFReader-1.png?raw=true" />
+</p>
 
 ## Cara Mencoba Kode Ini
 
