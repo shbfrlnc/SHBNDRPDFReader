@@ -1,5 +1,9 @@
 # SHBNDRPDFReader - Aplikasi Android untuk Menampilkan File PDF
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini?
 
 SHBNDRPDFReader adalah aplikasi Android untuk menampilkan file PDF.
